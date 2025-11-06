@@ -1,3 +1,3 @@
 base = 4
 altura = 3
-area = (base * altura)/2
+area_triangulo = (base * altura)/2
